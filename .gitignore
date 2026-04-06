@@ -4,4 +4,4 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 *.log
-litres_1_1.csv
+litres*.csv
