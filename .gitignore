@@ -4,3 +4,4 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 *.log
+open_library_x_nyt*.csv
